@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danethmw" alt="danethmw" /></a> </p>
 
+- 📫 How to reach me **support@daneth.one**
+
+- 📄 Know about my experiences [https://www.coursera.org/user/861908911cddd43b5f1b149225bea4dc](https://www.coursera.org/user/861908911cddd43b5f1b149225bea4dc)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danethmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danethmw" height="30" width="40" /></a>
